@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
      * Increase the score for Team A by 2 points.
      */
     public void safetyTeamA(View v) {
-        scoreTeamA = scoreTeamA + 3;
+        scoreTeamA = scoreTeamA + 2;
         displayForTeamA(scoreTeamA);
     }
 
